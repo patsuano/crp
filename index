@@ -13,12 +13,9 @@ Oldboy</br>
 <input type="button" onclick="alert('Park Chan-wook')" value="Directed by" />
 <input type="button" onclick="alert('Chung-hoon Chung')" value="Cinematography by" /></br>
 With its release date being 2003(South Korea) and 2005(USA), this isn't a very old movie, but I already consider it a classic.
-Oldboy is a movie I find to be overlooked by many here in the states, porbably because of its origins, as it was made in South Korea and the only way I found out about it was 
-
-through one of the world's most renowned film critics, the late Roger Ebert. In the following pages I will showcase as much useful information as I can find about the movie, 
-
-such information will include:
-
+Oldboy is a movie I find to be overlooked by many here in the states, porbably because of its origins, as it was made in South
+Korea and the only way I found out about it was through one of the world's most renowned film critics, the late Roger Ebert. In 
+the following pages I will showcase as much useful information as I can find about the movie, such information will include:
 <ul>
 <li><a href="p1.htm">What did the movie conribute to the industry?</a></li>
 <li><a href="p2.htm">What do others think of the movie?</a></li>
@@ -26,7 +23,6 @@ such information will include:
 <li><a href="p4.htm">Final thoughts.</a></li>
 </ul>
 </td>
-
 <td>
 <image src="oldboy.jpg" alt="movie_poster" style="width:500px;height:685px;">
 </td></tr>
