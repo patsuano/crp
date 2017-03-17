@@ -3,15 +3,25 @@
 <head>
 <title>My Favorite Movie - Eloy Cabrera</title>
 </head>
-
 <body>
-<div align="center"></div>
-<h1>
-My Favorite Movie is...</h></br>
+<h1><div align="center">
+My Favorite Movie is...</h1></br></div>
 <table>
-      <tr>
-         <td>Oldboy
-         
+<tr>
+<td>Oldboy</br>
+With its release date being 2003(South Korea) and 2005(USA), this isn't a very old movie, but I already consider it a classic.
+Oldboy is a movie I find to be overlooked by many here in the states, porbably because of its origins, as it was made in South Korea
+and the only way I found out about it was through one of the world's most renowned film critics, the late Roger Ebert. In the following
+pages I will showcase as much useful information as I can find about the movie, such information will include:
+<ul>
+<li><a href="p1.htm>lWhat did the movie conribute to the industry.</a></li>
+<li><a href="p2.htm>What do others think of the movie.</a></li>
+<li><a href="p3.htm>Personal mini-review of the movie</a></li>
+<li><a href="p4.htm>Final thoughts</a></li>
+</ul>
+
+
+      
          
 </body>
 
