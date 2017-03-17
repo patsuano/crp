@@ -9,7 +9,8 @@ My Favorite Movie is...</h1></br></div>
 <table>
 <tr>
 <td>
-Oldboy</br>
+<h3>
+Oldboy</h></br>
 <input type="button" onclick="alert('Park Chan-wook')" value="Directed by" />
 <input type="button" onclick="alert('Chung-hoon Chung')" value="Cinematography by" /></br>
 With its release date being 2003(South Korea) and 2005(USA), this isn't a very old movie, but I already consider it a classic.
